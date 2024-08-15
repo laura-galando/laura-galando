@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @laura-galando
-- 👀 I’m interested in Front End Web Developemnt and Web Design
-- 🌱 I’m currently learning new trends for Web Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning new trends in Typography
+- - 💞️ I’m looking to collaborate on Websites
+- 📫 How to reach me laura.galando@gmail.com
 - ⚡ Fun fact: 15+ years as a Sweater Designer
 
 <!---
